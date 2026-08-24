@@ -1,0 +1,8 @@
+{
+  "name": "kyroxe-dns",
+  "version": "1.0.0",
+  "description": "A Netlify-hosted public DNS lookup and bounded discovery web app",
+  "type": "module",
+  "engines": { "node": ">=18.17" },
+  "dependencies": {}
+}
