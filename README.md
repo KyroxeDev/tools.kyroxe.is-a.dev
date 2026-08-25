@@ -1,6 +1,6 @@
 # Kyroxe DNS
 
-A Netlify-hosted web app and serverless API for real public DNS lookups and bounded subdomain discovery.
+My tools for anyone to use. Kyroxe DNS is a Netlify-hosted web app and serverless API for real public DNS lookups and bounded subdomain discovery.
 
 ## Deploy to Netlify
 
